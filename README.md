@@ -4,7 +4,7 @@ Automated model governance for regulated fintechs in LATAM.
 
 A demo of what continuous AI governance looks like in practice: a monitoring agent that tracks drift and calibration on a credit scoring model, generates audit-ready reports, and alerts compliance teams when something goes wrong — before a regulator asks.
 
-Built as a reference implementation for [Normarc] — governance that bends with your architecture, not against it.
+Built as a reference implementation for Normarc — governance that bends with your architecture, not against it.
 
 ---
 
@@ -122,7 +122,7 @@ This repo is intentionally simple. In a production deployment:
 - **Reports** are stored in S3 or GCS with versioning for audit trail
 - **Alerts** extend to Slack, email, or your incident management system
 
-That production layer is what Normarc provides. [normarc.ai]
+That production layer is what Normarc provides.
 
 ---
 
@@ -143,4 +143,4 @@ MIT — use it, fork it, build on it.
 
 ---
 
-_Built by [Fernando Céspedes](https://linkedin.com/in/fernandocespedes) · [Normarc]_
+_Built by [Fernando Céspedes](https://linkedin.com/in/fernandocespedes) · Normarc_
