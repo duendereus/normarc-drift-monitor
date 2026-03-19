@@ -1,0 +1,9 @@
+.env
+data/inference_logs.csv
+data/*.duckdb
+reports/output/
+__pycache__/
+*.pyc
+.venv/
+.claude/
+comp_files/
